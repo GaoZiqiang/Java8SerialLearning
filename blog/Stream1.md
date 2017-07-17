@@ -1,8 +1,8 @@
 # **Java8系列--Java Stream入门篇（什么是Stream）**
-##**1 知识框架**
+## **1 知识框架**
   　　先上一张图来说明一下Java8中"流"的引进、意义和优势。
   ![stream1](http://img.blog.csdn.net/20170716204058364?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzM0Mjk5Njg=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-##**2 传统Java集合的不足**
+## **2 传统Java集合的不足**
 ###**2.1 传统Java集合**
   　　集合是Java中用途十分广泛的一个集合，正是因为它对于数据的处理的优势，几乎任何一个Java应用程序都会设计对Java集合的制造和处理。
   　　然而，一个传统的Java集合仅仅是对Java集合内部的数据进行简单的添加、删除等操作，而且处理的数据类型有限。
